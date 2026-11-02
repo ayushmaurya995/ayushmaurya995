@@ -297,54 +297,81 @@ An analytical project focused on tracking business health and turning performanc
 ## 07 &nbsp; / &nbsp; MILESTONES & RECOGNITION
 
 <div align="center">
-<sub>HACKATHONS · CLOUD LEARNING · PROFESSIONAL CERTIFICATIONS</sub>
+<sub>HACKATHONS · INDUSTRY EXPOSURE · TECHNICAL TRAINING · PROFESSIONAL CERTIFICATES</sub>
 </div>
+
+### 01 / Hackathons & innovation
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 · HACKATHON PARTICIPATION**
+**01.1 · HACKATHON PARTICIPATION**
 
-### 🚀 Geeks2Code Hackathon
+#### 🚀 Geeks2Code Hackathon
 
 Participated in the **Geeks2Code Hackathon**, organized by the **GFG Campus Body, MIET Meerut**.
 
-<sub>RECOGNITION · PARTICIPATION CERTIFICATE</sub>
+<sub>MIET MEERUT · PARTICIPATION CERTIFICATE</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**02 · STARTUP & INNOVATION**
+**01.2 · STARTUP PITCH**
 
-### 💡 National Startup Pitch Competition 2026
+#### 💡 National Startup Pitch Competition 2026
 
-Participated as a member of **Team The Night Agents**, representing **Sanskriti University**, in the competition organized by **YAI Infraventure**.
+Participated as part of **Team The Night Agents**, representing **Sanskriti University**, in the competition organized by **YAI Infraventure**.
 
 <sub>TEAM · THE NIGHT AGENTS</sub>
 
 </td>
 </tr>
-<tr>
-<td colspan="2"><hr/></td>
-</tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 · NATIONAL-LEVEL HACKATHON**
+**01.3 · AI INNOVATION**
 
-### 🇮🇳 Build With Bharat 2.0
+#### 🤖 AI Startup Buildathon 2026
 
-Participated in the **24-hour national-level hackathon** held on **13–14 September** at the **National Institute of Technology Delhi**, organized by **CodeVerse**.
+Participated in the **Beauty Salon Marketplace Challenge**, part of the **SuperXGen AI Builder Series**, organized by **SuperXGen** through **Unstop**.
 
-<sub>IN-PERSON HACKATHON · NIT DELHI</sub>
+<sub>BEAUTY SALON MARKETPLACE CHALLENGE</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**04 · CLOUD COMPUTING**
+**01.4 · NATIONAL-LEVEL HACKATHON**
 
-### ☁️ AZ-900: Microsoft Azure Cloud Computing
+#### 🇮🇳 Build With Bharat 2.0
+
+Participated in the **24-hour national-level hackathon** on **13–14 September** at the **National Institute of Technology Delhi**, organized by **CodeVerse**.
+
+<sub>IN-PERSON HACKATHON · NIT DELHI</sub>
+
+</td>
+</tr>
+</table>
+
+### 02 / Industry exposure & workshops
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 Data Science Internship
+
+**Navodita Infotech**
+
+Received a Data Science internship offer from **Navodita Infotech** and shared a follow-up post highlighting work and learning from the internship.
+
+<sub>INTERNSHIP EXPERIENCE · DATA SCIENCE</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ AZ-900: Microsoft Azure Cloud Computing
 
 Participated in the AZ-900 workshop on **18 July 2026**, organized by the **School of Engineering & Information Technology, Sanskriti University, Mathura, U.P.**
 
@@ -352,19 +379,81 @@ Participated in the AZ-900 workshop on **18 July 2026**, organized by the **Scho
 
 </td>
 </tr>
+</table>
+
+### 03 / Professional certificates & technical learning
+
+<table>
 <tr>
-<td colspan="2"><hr/></td>
+<td width="50%" valign="top">
+
+**03.1 · DATA SCIENCE**
+
+#### 🐍 Data Science with Python Bootcamp
+
+Successfully completed the **3-day bootcamp by LetsUpgrade**, held from **5–7 June 2025**. Certificate issued **12 June 2025**.
+
+Delivered in collaboration with **National Skill Development Corporation (NSDC)**, **ITM Edutech Training Pvt. Ltd.**, and **GDG MAD**.
+
+<sub>LETSUPGRADE · 3-DAY BOOTCAMP</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**03.2 · DATABASES & SQL**
+
+#### 🗄️ Introduction to Database Management and SQL
+
+Completed the course offered by **Newton School** on **30 April 2025**.
+
+<sub>NEWTON SCHOOL · CERTIFICATE OF ACHIEVEMENT</sub>
+
+</td>
 </tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**03.3 · PYTHON**
+
+#### 🐍 Free Python Course
+
+Completed the **3-week Free Python Course — Updated [2025]**, offered by **GeeksforGeeks**.
+
+<sub>GEEKSFORGEEKS · 3-WEEK COURSE</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**03.4 · ARTIFICIAL INTELLIGENCE**
+
+#### ✳ Google AI Professional Certificate
+
+Completed the **Google AI Professional Certificate** by **Google**, through **Coursera**, on **25 July 2026**.
+
+The certificate covers seven courses, including AI fundamentals, brainstorming and planning, research, writing, content creation, data analysis, and app building.
+
+<sub>GOOGLE · COURSERA · 7-COURSE CERTIFICATE</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td colspan="2" valign="top">
 
-**05 · PROFESSIONAL CERTIFICATION**
+**03.5 · FULL-STACK WEB DEVELOPMENT**
 
-### 🎓 Full-Stack Web Development Specialization
+#### 🎓 Full-Stack Web Development Specialization
 
-Successfully completed the **Full-Stack Web Development Specialization** offered by the **University of London** through **Coursera**.
+Completed the **Full-Stack Web Development Specialization** offered by the **University of London** through **Coursera**.
 
-<sub>UNIVERSITY OF LONDON · COURSERA</sub>
+The course certificates shared include:
+
+- **HTML: How to Build a Website** — 28 July 2026
+- **CSS: Web Page Layout – Usability and Accessibility** — 28 July 2026
+- **Data-driven Websites: JSON, APIs and Templates** — 28 July 2026
+
+<sub>UNIVERSITY OF LONDON · COURSERA · WEB DEVELOPMENT</sub>
 
 </td>
 </tr>
