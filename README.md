@@ -294,26 +294,81 @@ An analytical project focused on tracking business health and turning performanc
 
 ---
 
-## 07 &nbsp; / &nbsp; MILESTONES
+## 07 &nbsp; / &nbsp; MILESTONES & RECOGNITION
+
+<div align="center">
+<sub>HACKATHONS · CLOUD LEARNING · PROFESSIONAL CERTIFICATIONS</sub>
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- 🏆 Smart India Hackathon Participant
-- 🏆 AI Startup Buildathon Participant
-- 🏆 Government of India Power BI Program
+**01 · HACKATHON PARTICIPATION**
+
+### 🚀 Geeks2Code Hackathon
+
+Participated in the **Geeks2Code Hackathon**, organized by the **GFG Campus Body, MIET Meerut**.
+
+<sub>RECOGNITION · PARTICIPATION CERTIFICATE</sub>
 
 </td>
 <td width="50%" valign="top">
 
-- 🏆 Google AI Professional Certificate
-- 🏆 Full-Stack Web Development Certification
+**02 · STARTUP & INNOVATION**
+
+### 💡 National Startup Pitch Competition 2026
+
+Participated as a member of **Team The Night Agents**, representing **Sanskriti University**, in the competition organized by **YAI Infraventure**.
+
+<sub>TEAM · THE NIGHT AGENTS</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2"><hr/></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · NATIONAL-LEVEL HACKATHON**
+
+### 🇮🇳 Build With Bharat 2.0
+
+Participated in the **24-hour national-level hackathon** held on **13–14 September** at the **National Institute of Technology Delhi**, organized by **CodeVerse**.
+
+<sub>IN-PERSON HACKATHON · NIT DELHI</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**04 · CLOUD COMPUTING**
+
+### ☁️ AZ-900: Microsoft Azure Cloud Computing
+
+Participated in the AZ-900 workshop on **18 July 2026**, organized by the **School of Engineering & Information Technology, Sanskriti University, Mathura, U.P.**
+
+<sub>WORKSHOP · 18 JULY 2026</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2"><hr/></td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**05 · PROFESSIONAL CERTIFICATION**
+
+### 🎓 Full-Stack Web Development Specialization
+
+Successfully completed the **Full-Stack Web Development Specialization** offered by the **University of London** through **Coursera**.
+
+<sub>UNIVERSITY OF LONDON · COURSERA</sub>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <a id="github-activity"></a>
