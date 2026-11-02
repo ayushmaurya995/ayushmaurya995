@@ -1,138 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=AYUSH%20MAURYA&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20DATA%20ANALYST%20%20%E2%80%A2%20%20PRODUCT%20ENTHUSIAST&descAlignY=60&descSize=13&animation=fadeIn&color=0:080808,45:303030,100:111827" />
+<img src="./assets/profile-hero.svg" alt="Ayush Maurya — Full-Stack Developer and Data Analyst" width="100%" />
 
-# Namaste 🙏, I'm Ayush Maurya
+<br/>
 
-### 🚀 Full-Stack Developer | Data Analyst | Product & Business Enthusiast
+<h3>Namaste 🙏, I'm Ayush Maurya</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=760&lines=Building+Scalable+Web+Applications;Transforming+Data+Into+Business+Insights;Exploring+AI+Products+%26+Automation;Aspiring+Product+Manager;Growth+Through+Technology+%26+Innovation" alt="Typing SVG" />
+<p><strong>Full-Stack Developer&nbsp; · &nbsp;Data Analyst&nbsp; · &nbsp;Product & Business Enthusiast</strong></p>
 
-<a href="https://github.com/ayushmaurya995"><img src="https://img.shields.io/badge/GitHub-ayushmaurya995-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=32&lines=Building+scalable+web+applications;Transforming+data+into+business+insights;Exploring+AI+products+%26+automation;Aspiring+Product+Manager;Growth+through+technology+%26+innovation" alt="What I work on" />
+
+<br/>
+
+<a href="https://github.com/ayushmaurya995"><img src="https://img.shields.io/badge/GitHub-ayushmaurya995-111827?style=flat-square&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0891B2?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 01 / About
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="62%" valign="top">
 
 I'm a **B.Tech Computer Science student** passionate about **Software Development, Data Analytics, Product Strategy, and Business Growth**.
 
 I enjoy building end-to-end applications, extracting insights from data, understanding user needs, and creating technology-driven solutions that solve real-world problems.
 
-- 💻 Full-Stack Development (MERN Stack)
-- 📊 Data Analytics & Business Intelligence
-- 🤖 AI-Powered Applications
-- 🚀 Product Management & Growth Strategy
-- 📈 Business Development & Market Analysis
-- 🌱 Continuous Learning & Innovation
+My work sits across three connected areas:
+
+- **Build** — Full-Stack Development (MERN Stack)
+- **Understand** — Data Analytics & Business Intelligence
+- **Improve** — AI-Powered Applications, Product Management & Growth Strategy
+
+I also enjoy Business Development, Market Analysis, and continuous learning.
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="38%" valign="top">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" />
+### CURRENT FOCUS
+
+<table>
+<tr><td>⌘</td><td><strong>Engineering</strong><br/><sub>Web applications & APIs</sub></td></tr>
+<tr><td>◫</td><td><strong>Analytics</strong><br/><sub>Data, KPIs & dashboards</sub></td></tr>
+<tr><td>✳</td><td><strong>AI exploration</strong><br/><sub>Intelligent products & automation</sub></td></tr>
+<tr><td>↗</td><td><strong>Product</strong><br/><sub>Strategy, users & growth</sub></td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🚀 Professional Summary
+### PROFESSIONAL SUMMARY
 
 Experienced in developing full-stack applications with modern web technologies while leveraging analytics tools to support business decision-making.
 
-**Core strengths**
-
-- ✅ React, Node.js, Express.js
-- ✅ MongoDB & PostgreSQL
-- ✅ Power BI, SQL & Looker Studio
-- ✅ Python for EDA & Analytics
-- ✅ KPI Monitoring & Dashboard Design
-- ✅ Product Thinking & Business Strategy
-- ✅ AI Integration & Automation
+| ENGINEERING | DATA & INSIGHTS | PRODUCT & STRATEGY |
+|:---|:---|:---|
+| React, Node.js, Express.js | Power BI, SQL, Looker Studio | Product Thinking |
+| MongoDB, PostgreSQL | Python, EDA & Analytics | Business Strategy |
+| AI Integration & Automation | KPI Monitoring & Dashboards | Growth & Market Analysis |
 
 ---
 
-## 💼 Experience
+## 02 / Experience
 
-### 🚀 Full-Stack Development Intern | Dataman Computer Systems
+<table>
+<tr>
+<td width="5%" valign="top"><strong>01</strong></td>
+<td width="95%" valign="top">
+
+### Full-Stack Development Intern
+**Dataman Computer Systems** &nbsp; <sub>DEVELOPMENT / AI</sub>
 
 - Developed features for an AI-powered Study Assistant platform.
 - Built React + TypeScript interfaces.
 - Worked with FastAPI, MongoDB & PostgreSQL.
 - Contributed to Retrieval-Augmented Generation (RAG) workflows.
 
-### 📊 Data Analyst Intern | Elevate Labs
+</td>
+</tr>
+<tr>
+<td colspan="2"><hr/></td>
+</tr>
+<tr>
+<td width="5%" valign="top"><strong>02</strong></td>
+<td width="95%" valign="top">
+
+### Data Analyst Intern
+**Elevate Labs** &nbsp; <sub>ANALYTICS / BUSINESS INTELLIGENCE</sub>
 
 - Analyzed sales performance and KPIs.
 - Built interactive Power BI dashboards.
 - Conducted Data Cleaning & Exploratory Data Analysis.
 - Generated actionable business insights.
 
-### 📈 Data Visualization Associate | Excelerate
+</td>
+</tr>
+<tr>
+<td colspan="2"><hr/></td>
+</tr>
+<tr>
+<td width="5%" valign="top"><strong>03</strong></td>
+<td width="95%" valign="top">
+
+### Data Visualization Associate
+**Excelerate** &nbsp; <sub>DATA VISUALIZATION / REPORTING</sub>
 
 - Built business dashboards using Looker Studio.
 - Created analytical reports using PostgreSQL.
 - Delivered stakeholder-focused insights and reporting.
-
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 BreakMoney
-
-**Shared Expense Manager & Group Wallet**
-
-- Real-time shared wallet management
-- Automated expense splitting
-- Smart settlement calculation
-- UPI-based payment workflows
-
-**Tech Stack:**  
-React • Node.js • Express • MongoDB
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Campus Connect
-
-**College Community Platform**
-
-- JWT Authentication & OTP Verification
-- Community Management System
-- Student Dashboards
-- REST API Architecture
-
-**Tech Stack:**  
-React • Tailwind CSS • Express • MongoDB
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📊 Financial KPI Analysis
-
-**Business Intelligence & Analytics**
-
-- Revenue Growth Analysis
-- CAC & LTV Tracking
-- Burn Rate Monitoring
-- Interactive Business Dashboards
-
-**Tech Stack:**  
-Python • Pandas • Excel • Tableau
 
 </td>
 </tr>
@@ -140,7 +122,82 @@ Python • Pandas • Excel • Tableau
 
 ---
 
-## 🎯 Career Interests
+## 03 / Selected Work
+
+<div align="center">
+<sub>PRODUCTS, PLATFORMS & ANALYTICAL PROJECTS</sub>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — BreakMoney
+**Shared Expense Manager & Group Wallet**
+
+A shared finance experience designed to make group expenses, wallet activity, and settlements easier to manage.
+
+- Real-time shared wallet management
+- Automated expense splitting
+- Smart settlement calculation
+- UPI-based payment workflows
+
+<sub>TECH STACK</sub>
+
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — Campus Connect
+**College Community Platform**
+
+A student-focused platform for building college communities and sharing campus resources.
+
+- JWT Authentication & OTP Verification
+- Community Management System
+- Student Dashboards
+- REST API Architecture
+
+<sub>TECH STACK</sub>
+
+<code>React</code> <code>Tailwind CSS</code> <code>Express</code> <code>MongoDB</code>
+
+</td>
+</tr>
+<tr>
+<td colspan="2"><hr/></td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 03 — Financial KPI Analysis
+**Business Intelligence & Analytics**
+
+An analytical project focused on tracking business health and turning performance data into useful insights.
+
+- Revenue Growth Analysis
+- CAC & LTV Tracking
+- Burn Rate Monitoring
+- Interactive Business Dashboards
+
+<sub>TECH STACK</sub>
+
+<code>Python</code> <code>Pandas</code> <code>Excel</code> <code>Tableau</code>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/ayushmaurya995?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+
+</div>
+
+---
+
+## 04 / Career Interests
 
 <div align="center">
 
@@ -152,49 +209,53 @@ Python • Pandas • Excel • Tableau
 
 ---
 
-## ⚡ Languages & Tools I Have Worked With
+## 05 / Toolkit
 
 <div align="center">
 
-### 💻 Development
+<sub>TECHNOLOGIES I HAVE WORKED WITH</sub>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,tailwind,vite" alt="Development tools" />
+### DEVELOPMENT
 
-### 🗄️ Databases & Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,tailwind,vite&perline=9" alt="HTML, CSS, JavaScript, React, TypeScript, Node, Express, Tailwind and Vite" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" alt="Databases and backend tools" />
+### DATABASES & BACKEND
 
-### 📊 Data, Analytics & Visualization
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase&perline=8" alt="MongoDB, PostgreSQL, Firebase and Supabase" />
 
-<img src="https://skillicons.dev/icons?i=python,mysql" alt="Programming and SQL" />
+### DATA & ANALYTICS
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql&perline=8" alt="Python, Pandas, NumPy and MySQL" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" />
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
-### 🛠️ Tools & Workflow
+### TOOLS & WORKFLOW
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=8" alt="Git, GitHub, VS Code, Postman, Figma and Vercel" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 06 / Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Product_Management-Planning-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine_Learning-Exploring-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud_Computing-Learning-64748B?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Agents_%26_Automation-Building-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Business_Growth-Understanding-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/01-Product_Management-4F46E5?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/02-Machine_Learning-2563EB?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/03-Cloud_Computing-0E7490?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/04-AI_Agents_%26_Automation-6D28D9?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/05-Business_Growth-047857?style=flat-square" />
 
 </div>
 
@@ -206,59 +267,73 @@ Python • Pandas • Excel • Tableau
 
 ---
 
-## 🏅 Achievements
+## 07 / Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 - 🏆 Smart India Hackathon Participant
 - 🏆 AI Startup Buildathon Participant
 - 🏆 Government of India Power BI Program
+
+</td>
+<td width="50%" valign="top">
+
 - 🏆 Google AI Professional Certificate
 - 🏆 Full-Stack Web Development Certification
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Analytics
+## 08 / GitHub Activity
 
 <div align="center">
 
+<sub>CONTRIBUTIONS · LANGUAGES · CONSISTENCY</sub>
+
 <a href="https://github.com/ayushmaurya995">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ayushmaurya995&show_icons=true&theme=default&hide_border=true&title_color=4F46E5&icon_color=0891B2&text_color=374151" alt="Ayush's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushmaurya995&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=67E8F9" alt="Ayush's GitHub statistics" />
 </a>
 <a href="https://github.com/ayushmaurya995">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaurya995&layout=compact&theme=default&hide_border=true&title_color=4F46E5&text_color=374151" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaurya995&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used languages" />
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ayushmaurya995&theme=default&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" alt="GitHub streak statistics" />
+<img width="72%" src="https://streak-stats.demolab.com?user=ayushmaurya995&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaurya995&bg_color=0D1117&color=C9D1D9&line=67E8F9&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 09 / Connect
 
 <div align="center">
 
-<a href="https://github.com/ayushmaurya995">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaurya995&theme=github-compact&hide_border=true&area=true&color=4F46E5&line=0891B2&point=4F46E5" alt="Ayush's GitHub contribution graph" />
-</a>
+**Interested in technology, meaningful products, data, and ideas that create impact.**
 
-</div>
+<br/>
 
----
-
-## 🌐 Reach Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/_k.ayush24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://instagram.com/_k.ayush24"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-### ⭐ Building Products • Analyzing Data • Driving Growth
+<sub>BUILDING PRODUCTS&nbsp; · &nbsp;ANALYZING DATA&nbsp; · &nbsp;DRIVING GROWTH</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:111827&height=120&section=footer" />
+<br/><br/>
+
+<img src="./assets/profile-footer.svg" alt="Thanks for visiting — connect, collaborate, create" width="100%" />
 
 </div>
