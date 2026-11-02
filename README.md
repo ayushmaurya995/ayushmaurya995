@@ -1,63 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=AYUSH%20MAURYA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%20%E2%80%A2%20%20DATA%20ANALYST%20%20%E2%80%A2%20%20PRODUCT%20THINKER&descAlignY=60&descSize=14&animation=fadeIn&color=0:070B18,35:172554,70:312E81,100:0891B2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=AYUSH%20MAURYA&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20DATA%20ANALYST%20%20%E2%80%A2%20%20PRODUCT%20ENTHUSIAST&descAlignY=60&descSize=13&animation=fadeIn&color=0:080808,45:303030,100:111827" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Engineering+products+with+purpose.;Turning+data+into+decisions.;Building+intelligent%2C+scalable+experiences.;Curious+mind.+Builder+mentality." alt="Typing introduction" />
+# Namaste 🙏, I'm Ayush Maurya
 
-<br/>
+### 🚀 Full-Stack Developer | Data Analyst | Product & Business Enthusiast
 
-<a href="https://github.com/ayushmaurya995"><img src="https://img.shields.io/badge/GitHub-ayushmaurya995-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=760&lines=Building+Scalable+Web+Applications;Transforming+Data+Into+Business+Insights;Exploring+AI+Products+%26+Automation;Aspiring+Product+Manager;Growth+Through+Technology+%26+Innovation" alt="Typing SVG" />
+
+<a href="https://github.com/ayushmaurya995"><img src="https://img.shields.io/badge/GitHub-ayushmaurya995-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-0891B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ayushmaurya995&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" />
+<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## ◈ THE DEVELOPER
-
-**I build at the intersection of software, data, and product thinking.**
-
-B.Tech Computer Science student focused on building useful digital products, creating clear data stories, and turning complex problems into practical solutions.
-
-<sub>SOFTWARE ENGINEERING&nbsp; · &nbsp;ANALYTICS&nbsp; · &nbsp;AI&nbsp; · &nbsp;PRODUCT STRATEGY</sub>
-
-</div>
-
-<br/>
+## 💫 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="middle">
 
-### ◉ What I do
+I'm a **B.Tech Computer Science student** passionate about **Software Development, Data Analytics, Product Strategy, and Business Growth**.
 
-- **Full-Stack Engineering** — responsive interfaces, APIs, and end-to-end applications.
-- **Data & Business Intelligence** — SQL analysis, KPI tracking, and decision-ready dashboards.
-- **AI-powered Products** — exploring RAG workflows, automation, and intelligent experiences.
-- **Product Thinking** — understanding users, shaping features, and connecting technology to outcomes.
+I enjoy building end-to-end applications, extracting insights from data, understanding user needs, and creating technology-driven solutions that solve real-world problems.
+
+- 💻 Full-Stack Development (MERN Stack)
+- 📊 Data Analytics & Business Intelligence
+- 🤖 AI-Powered Applications
+- 🚀 Product Management & Growth Strategy
+- 📈 Business Development & Market Analysis
+- 🌱 Continuous Learning & Innovation
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-### ◈ How I think
-
-- Start with the problem, not the technology.
-- Build for clarity, reliability, and real users.
-- Use data to challenge assumptions.
-- Iterate quickly and learn continuously.
-
-<br/>
-
-**Currently exploring**
-
-`AI Agents` `Machine Learning` `Cloud` `Product Management`
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working at a computer" />
 
 </td>
 </tr>
@@ -65,209 +44,95 @@ B.Tech Computer Science student focused on building useful digital products, cre
 
 ---
 
-## ◈ EXPERIENCE
+## 🚀 Professional Summary
 
-<table>
-<tr>
-<td width="34" valign="top">🚀</td>
-<td>
+Experienced in developing full-stack applications with modern web technologies while leveraging analytics tools to support business decision-making.
 
-**Full-Stack Development Intern · Dataman Computer Systems**
+**Core strengths**
+
+- ✅ React, Node.js, Express.js
+- ✅ MongoDB & PostgreSQL
+- ✅ Power BI, SQL & Looker Studio
+- ✅ Python for EDA & Analytics
+- ✅ KPI Monitoring & Dashboard Design
+- ✅ Product Thinking & Business Strategy
+- ✅ AI Integration & Automation
+
+---
+
+## 💼 Experience
+
+### 🚀 Full-Stack Development Intern | Dataman Computer Systems
 
 - Developed features for an AI-powered Study Assistant platform.
-- Built responsive interfaces using React and TypeScript.
-- Worked with FastAPI, MongoDB, and PostgreSQL.
+- Built React + TypeScript interfaces.
+- Worked with FastAPI, MongoDB & PostgreSQL.
 - Contributed to Retrieval-Augmented Generation (RAG) workflows.
 
-</td>
-</tr>
-<tr>
-<td valign="top">📊</td>
-<td>
+### 📊 Data Analyst Intern | Elevate Labs
 
-**Data Analyst Intern · Elevate Labs**
+- Analyzed sales performance and KPIs.
+- Built interactive Power BI dashboards.
+- Conducted Data Cleaning & Exploratory Data Analysis.
+- Generated actionable business insights.
 
-- Analyzed sales performance, business metrics, and KPIs.
-- Built interactive dashboards in Power BI.
-- Performed data cleaning and exploratory data analysis.
-- Translated findings into actionable business insights.
-
-</td>
-</tr>
-<tr>
-<td valign="top">📈</td>
-<td>
-
-**Data Visualization Associate · Excelerate**
+### 📈 Data Visualization Associate | Excelerate
 
 - Built business dashboards using Looker Studio.
-- Wrote PostgreSQL queries for analytical reporting.
-- Presented stakeholder-focused insights through clear visualizations.
-
-</td>
-</tr>
-</table>
+- Created analytical reports using PostgreSQL.
+- Delivered stakeholder-focused insights and reporting.
 
 ---
 
-## ◈ SELECTED BUILDS
+## 🏆 Featured Projects
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💠 BreakMoney
+### 💰 BreakMoney
 
-**Shared Expense Manager · Group Wallet**
+**Shared Expense Manager & Group Wallet**
 
-A group-first way to manage shared money, expenses, and settlements.
+- Real-time shared wallet management
+- Automated expense splitting
+- Smart settlement calculation
+- UPI-based payment workflows
 
-- Shared group wallet and ledger
-- Automatic expense splitting
-- Smart settlement calculations
-- UPI payment workflow exploration
-
-**Stack**
-
-`React` `TypeScript` `Node.js` `Express` `Supabase` `Socket.IO`
+**Tech Stack:**  
+React • Node.js • Express • MongoDB
 
 </td>
 <td width="50%" valign="top">
 
-### 💠 Campus Connect
+### 🎓 Campus Connect
 
 **College Community Platform**
 
-A digital space for students to connect, collaborate, and share campus resources.
+- JWT Authentication & OTP Verification
+- Community Management System
+- Student Dashboards
+- REST API Architecture
 
-- Student authentication and verification
-- College communities and membership
-- Student dashboards and notices
-- REST API-driven architecture
-
-**Stack**
-
-`React` `Tailwind CSS` `Node.js` `Express` `PostgreSQL`
+**Tech Stack:**  
+React • Tailwind CSS • Express • MongoDB
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 💠 Financial KPI Analysis
+### 📊 Financial KPI Analysis
 
-**Business Intelligence · Analytics**
+**Business Intelligence & Analytics**
 
-Turning business data into useful performance signals.
+- Revenue Growth Analysis
+- CAC & LTV Tracking
+- Burn Rate Monitoring
+- Interactive Business Dashboards
 
-- Revenue growth analysis
-- CAC and LTV tracking
-- Burn-rate monitoring
-- Interactive business dashboards
-
-**Stack**
-
-`Python` `Pandas` `SQL` `Excel` `Power BI` `Tableau`
-
-</td>
-<td width="50%" valign="top">
-
-### 💠 More experiments
-
-I enjoy exploring ideas across developer tools, productivity, AI, and data.
-
-Browse my repositories for analytics projects, experiments, and learning builds.
-
-<br/>
-
-<a href="https://github.com/ayushmaurya995?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## ◈ TECHNOLOGY MATRIX
-
-<div align="center">
-
-### ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,html,css,tailwind,vite" />
-
-### DATABASES & BACKEND
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis,fastapi" />
-
-### DATA & INTELLIGENCE
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql" />
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" />
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-
-### TOOLS & WORKFLOW
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,aws" />
-
-</div>
-
----
-
-## ◈ GITHUB / ACTIVITY CONSOLE
-
-<div align="center">
-
-<a href="https://github.com/ayushmaurya995">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ayushmaurya995&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=22D3EE" alt="GitHub stats" />
-</a>
-<a href="https://github.com/ayushmaurya995">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaurya995&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Top languages" />
-</a>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=ayushmaurya995&hide_border=true&background=0B1020&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaurya995&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## ◈ MILESTONES & CONTINUOUS GROWTH
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 Recognition
-
-- Smart India Hackathon Participant
-- AI Startup Buildathon Participant
-- Government of India Power BI Program
-- Google AI Professional Certificate
-- Full-Stack Web Development Certification
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 Current learning orbit
-
-- Product Management & discovery
-- Machine Learning foundations
-- Cloud computing
-- AI agents and automation
-- Business growth strategy
+**Tech Stack:**  
+Python • Pandas • Excel • Tableau
 
 </td>
 </tr>
@@ -275,38 +140,125 @@ Browse my repositories for analytics projects, experiments, and learning builds.
 
 ---
 
-## ◈ BEYOND THE CODE
+## 🎯 Career Interests
 
 <div align="center">
 
-| FOCUS | INTEREST |
-|:---:|:---|
-| 💻 | Full-Stack Development |
-| 📊 | Data Analytics & Business Intelligence |
-| 🤖 | AI Products & Automation |
-| 🚀 | Product Management |
-| 📈 | Business Development & Growth |
+| 💻 Full-Stack Development | 📊 Data Analytics | 🚀 Product Management |
+|:---:|:---:|:---:|
+| 📈 Business Development | 🤖 AI Products | 📉 Business Intelligence |
 
 </div>
 
 ---
 
+## ⚡ Languages & Tools I Have Worked With
+
 <div align="center">
 
-## LET'S BUILD SOMETHING MEANINGFUL.
+### 💻 Development
 
-**Open to interesting conversations, collaborations, and opportunities.**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,tailwind,vite" alt="Development tools" />
+
+### 🗄️ Databases & Backend
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" alt="Databases and backend tools" />
+
+### 📊 Data, Analytics & Visualization
+
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Programming and SQL" />
 
 <br/>
 
-<a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/_k.ayush24"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" alt="Developer tools" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Product_Management-Planning-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine_Learning-Exploring-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud_Computing-Learning-64748B?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents_%26_Automation-Building-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Business_Growth-Understanding-059669?style=flat-square" />
+
+</div>
+
+- Product Management
+- Machine Learning
+- Cloud Computing
+- AI Agents & Automation
+- Business Growth Strategy
+
+---
+
+## 🏅 Achievements
+
+- 🏆 Smart India Hackathon Participant
+- 🏆 AI Startup Buildathon Participant
+- 🏆 Government of India Power BI Program
+- 🏆 Google AI Professional Certificate
+- 🏆 Full-Stack Web Development Certification
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ayushmaurya995">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ayushmaurya995&show_icons=true&theme=default&hide_border=true&title_color=4F46E5&icon_color=0891B2&text_color=374151" alt="Ayush's GitHub statistics" />
+</a>
+<a href="https://github.com/ayushmaurya995">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaurya995&layout=compact&theme=default&hide_border=true&title_color=4F46E5&text_color=374151" alt="Most used languages" />
+</a>
 
 <br/><br/>
 
-<sub>“Build with curiosity. Measure with data. Ship with purpose.”</sub>
+<img width="75%" src="https://streak-stats.demolab.com?user=ayushmaurya995&theme=default&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" alt="GitHub streak statistics" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:0891B2,45:312E81,100:070B18" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/ayushmaurya995">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaurya995&theme=github-compact&hide_border=true&area=true&color=4F46E5&line=0891B2&point=4F46E5" alt="Ayush's GitHub contribution graph" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Reach Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayush-maurya-51b173290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/_k.ayush24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ayushmaurya995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+### ⭐ Building Products • Analyzing Data • Driving Growth
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:111827&height=120&section=footer" />
 
 </div>
