@@ -252,6 +252,89 @@
       *,*::before,*::after { transition:none!important; animation:none!important; }
       .reveal { opacity:1; transform:none; }
     }
+  
+    /* Responsive typography refinement: clearer on laptops, balanced on phones */
+    html { font-size: 16px; }
+    .nav { font-size: 14px; }
+    .brand small { font-size: 10px; }
+    .eyebrow, .section-kicker { font-size: 12px; }
+    .about-card p { font-size: 14px; }
+    .card-label { font-size: 13px; }
+    .hero-role { font-size: 15px; line-height: 1.7; }
+    .hero-loc { font-size: 13px; }
+    .btn { font-size: 13px; padding: 13px 18px; }
+    .float-chip { font-size: 12px; padding: 12px 14px; }
+    .hero-foot { font-size: 11px; }
+    h2 { font-size: clamp(32px, 3.2vw, 44px); }
+    .section-desc { font-size: 14px; max-width: 340px; }
+    .degree { font-size: 14px; }
+    .edu-date, .timeline-date { font-size: 12px; }
+    .edu-pill { font-size: 12px; }
+    .coursework { font-size: 12px; }
+    .timeline-place { font-size: 16px; }
+    .timeline-role { font-size: 13px; }
+    .timeline-item p { font-size: 13px; line-height: 1.7; }
+    .experience-kicker { font-size: 11px; }
+    .panel-tag { font-size: 11px; }
+    .skill-group h3 { font-size: 12px; }
+    .skill-tile { font-size: 12px; }
+    .skill-tile small { font-size: 10px; }
+    .skills-note { font-size: 11px; }
+    .project-title { font-size: 26px; }
+    .project-sub { font-size: 13px; }
+    .project-body p { font-size: 14px; line-height: 1.7; }
+    .project-points span { font-size: 11px; }
+    .project-stack { font-size: 11px; }
+    .project-index { font-size: 11px; }
+    .recognition-item strong { font-size: 13px; }
+    .recognition-item small { font-size: 11px; }
+    .contact-tile span { font-size: 10px; }
+    .contact-tile strong { font-size: 14px; }
+    footer { font-size: 11px; }
+
+    @media (max-width: 960px) {
+      .nav { font-size: 13px; gap: 18px; }
+      .hero-role { font-size: 14px; }
+      .section-desc { font-size: 13px; }
+      .timeline-item p, .project-body p { font-size: 13px; }
+    }
+    @media (max-width: 640px) {
+      .nav { font-size: 14px; }
+      .eyebrow, .section-kicker { font-size: 10px; }
+      .about-card p { font-size: 13px; }
+      .card-label { font-size: 12px; }
+      .hero-role { font-size: 14px; line-height: 1.65; }
+      .hero-loc { font-size: 12px; }
+      .btn { font-size: 12px; padding: 12px 15px; }
+      .float-chip { font-size: 11px; padding: 10px 12px; }
+      .hero-foot { font-size: 8px; }
+      h2 { font-size: clamp(29px, 8vw, 35px); }
+      .section-desc { font-size: 13px; }
+      .degree { font-size: 13px; }
+      .edu-date, .timeline-date { font-size: 11px; }
+      .edu-pill { font-size: 11px; }
+      .coursework { font-size: 11px; }
+      .timeline-place { font-size: 14px; }
+      .timeline-role { font-size: 12px; }
+      .timeline-item p { font-size: 12px; }
+      .panel-tag { font-size: 10px; }
+      .skill-group h3 { font-size: 10px; }
+      .skill-tile { font-size: 11px; }
+      .skill-tile small { font-size: 9px; }
+      .skills-note { font-size: 9px; }
+      .project-title { font-size: 23px; }
+      .project-sub { font-size: 12px; }
+      .project-body p { font-size: 13px; }
+      .project-points span { font-size: 10px; }
+      .project-stack { font-size: 10px; }
+      .project-index { font-size: 10px; }
+      .recognition-item strong { font-size: 12px; }
+      .recognition-item small { font-size: 10px; }
+      .contact-tile span { font-size: 9px; }
+      .contact-tile strong { font-size: 12px; }
+      footer { font-size: 9px; }
+    }
+
   </style>
 </head>
 <body>
