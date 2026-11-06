@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#f1f0ed" />
+  <meta name="theme-color" content="#fff1e9" />
   <meta name="description" content="Ayush Maurya — Full-Stack Developer, Data Analyst and Product Enthusiast. Building useful digital products at the intersection of software, data and product thinking." />
   <meta property="og:title" content="Ayush Maurya — Developer Portfolio" />
   <meta property="og:description" content="Full-Stack Developer · Data Analyst · Product & Business Enthusiast" />
@@ -333,6 +333,96 @@
       .contact-tile span { font-size: 9px; }
       .contact-tile strong { font-size: 12px; }
       footer { font-size: 9px; }
+    }
+
+  
+    /* 2026 warm rose / plum theme refresh */
+    :root {
+      --paper: #fff1e9;
+      --paper-2: #f9ddd6;
+      --ink: #4c1d3d;
+      --muted: #852e4e;
+      --line: rgba(76,29,61,.16);
+      --blue: #dc586d;
+      --blue-2: #a33757;
+      --orange: #ffbb94;
+      --card: rgba(255,255,255,.84);
+      --shadow: 0 18px 50px rgba(76,29,61,.10);
+    }
+    body {
+      background:
+        radial-gradient(ellipse at 8% 0%, rgba(255,187,148,.58), transparent 35%),
+        radial-gradient(ellipse at 92% 16%, rgba(220,88,109,.16), transparent 34%),
+        linear-gradient(180deg, #fff1e9 0%, #fff7f2 42%, #f9ddd6 100%);
+    }
+    .brand-mark { border-color:var(--ink); box-shadow:4px 4px 0 #dc586d; }
+    .nav { color:#6e344e; }
+    .nav a:hover { color:#dc586d; }
+    .nav-cta:hover { background:#4c1d3d; color:#fff!important; }
+    .live-dot { background:#a33757; box-shadow:0 0 0 4px rgba(163,55,87,.13); }
+    .about-card { background:rgba(255,255,255,.86); border-color:rgba(255,255,255,.96); }
+    .about-card::after { background:#ffbb94; }
+    .portrait-ring { background:#4c1d3d; }
+    .portrait-orbit { border-color:rgba(220,88,109,.28); }
+    .portrait-orbit::before { background:#dc586d; box-shadow:0 0 0 7px rgba(220,88,109,.12); }
+    .portrait-orbit::after { background:#ffbb94; box-shadow:0 0 0 7px rgba(255,187,148,.2); }
+    .portrait-caption { color:#4c1d3d; }
+    .hero-title .mono { color:#a33757!important; }
+    h1 span { color:#dc586d; }
+    .btn { border-color:#4c1d3d; }
+    .btn.primary { background:#4c1d3d; color:#fff; }
+    .btn.primary:hover { background:#852e4e; }
+    .btn.secondary:hover { background:#4c1d3d; color:#fff; }
+    .float-chip.dark { background:#4c1d3d; }
+    .float-chip.violet { background:#a33757; }
+    .float-chip.orange { background:#ffbb94; color:#4c1d3d; }
+    .float-chip.white { background:#fff; color:#4c1d3d; }
+    .section-kicker, .project-index, .project-index, .edu-date,
+    .timeline-date, .experience-kicker { color:#dc586d; }
+    .panel.dark { background:#4c1d3d; border-color:#4c1d3d; }
+    .edu-pill { background:#fbe1d7; color:#852e4e; }
+    .skills-section { background:linear-gradient(135deg,#f9ddd6,#fff0e9); border-color:rgba(163,55,87,.1); }
+    .skill-group { background:rgba(255,255,255,.82); border-color:#fff; }
+    .skill-tile { border-color:#f4d9d3; }
+    .skill-tile b { color:#dc586d; }
+    .art-money { background:linear-gradient(135deg,#4c1d3d,#852e4e); }
+    .art-campus { background:linear-gradient(135deg,#852e4e,#dc586d); }
+    .art-data { background:linear-gradient(135deg,#a33757,#4c1d3d); }
+    .project-card { background:#fffaf7; border-color:#fff; }
+    .project-points span, .recognition-icon { background:#fbe5df; color:#852e4e; }
+    .contact-band { background:linear-gradient(135deg,#4c1d3d,#852e4e); }
+    .contact-email { background:#ffbb94; color:#4c1d3d; }
+    .contact-email span, .contact-email strong { color:#4c1d3d; }
+    .nav.open { background:#fff7f2; }
+    /* Slightly larger type, while keeping the existing responsive layout */
+    .nav { font-size:15px; }
+    .eyebrow, .section-kicker { font-size:13px; }
+    .about-card p, .degree, .coursework { font-size:15px; }
+    .hero-role { font-size:16px; }
+    .hero-loc { font-size:14px; }
+    .btn { font-size:14px; }
+    .section-desc { font-size:15px; }
+    .timeline-place { font-size:17px; }
+    .timeline-role, .timeline-item p { font-size:14px; }
+    .skill-group h3 { font-size:13px; }
+    .project-title { font-size:27px; }
+    .project-sub, .project-body p { font-size:14px; }
+    .project-points span, .project-stack { font-size:12px; }
+    .recognition-item strong { font-size:14px; }
+    .recognition-item small { font-size:12px; }
+    .contact-tile strong { font-size:15px; }
+    @media (max-width:960px) {
+      .hero-role, .section-desc, .timeline-item p, .project-body p { font-size:14px; }
+    }
+    @media (max-width:640px) {
+      .eyebrow, .section-kicker { font-size:11px; }
+      .about-card p, .hero-role, .section-desc { font-size:14px; }
+      .btn { font-size:13px; }
+      .timeline-item p, .project-body p { font-size:13px; }
+      .project-title { font-size:24px; }
+      .recognition-item strong { font-size:13px; }
+      .recognition-item small { font-size:11px; }
+      .contact-tile strong { font-size:13px; }
     }
 
   </style>
