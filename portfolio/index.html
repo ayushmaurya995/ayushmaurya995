@@ -425,7 +425,17 @@
       .contact-tile strong { font-size:13px; }
     }
 
-  </style>
+  
+    /* Brand marks + readable labels in the toolkit */
+    .skill-tile { width:auto; min-width:78px; height:62px; padding:8px 10px; flex-direction:row; gap:8px; }
+    .skill-tile img { width:23px; height:23px; object-fit:contain; flex:0 0 auto; }
+    .skill-tile small { color:#56515a; font-size:10px; font-weight:750; white-space:nowrap; }
+    @media (max-width:640px) {
+      .skill-tile { min-width:0; width:100%; height:55px; padding:7px; gap:6px; }
+      .skill-tile img { width:20px; height:20px; }
+      .skill-tile small { font-size:9px; }
+    }
+</style>
 </head>
 <body>
   <div class="shell">
@@ -526,10 +536,38 @@
             <p class="section-desc">A practical mix of engineering, data, and collaboration tools used across projects and internships.</p>
           </div>
           <div class="skill-groups">
-            <div class="skill-group reveal"><h3>FRONTEND</h3><div class="skill-tiles"><div class="skill-tile"><b>Re</b><small>React</small></div><div class="skill-tile"><b>TS</b><small>TypeScript</small></div><div class="skill-tile"><b>JS</b><small>JavaScript</small></div><div class="skill-tile"><b>TW</b><small>Tailwind</small></div><div class="skill-tile"><b>⚡</b><small>Vite</small></div><div class="skill-tile"><b>◇</b><small>HTML/CSS</small></div></div></div>
-            <div class="skill-group reveal"><h3>BACKEND & DATA</h3><div class="skill-tiles"><div class="skill-tile"><b>No</b><small>Node.js</small></div><div class="skill-tile"><b>Ex</b><small>Express</small></div><div class="skill-tile"><b>Py</b><small>Python</small></div><div class="skill-tile"><b>SQL</b><small>SQL</small></div><div class="skill-tile"><b>Pg</b><small>Postgres</small></div><div class="skill-tile"><b>Mo</b><small>MongoDB</small></div></div></div>
-            <div class="skill-group reveal"><h3>ANALYTICS</h3><div class="skill-tiles"><div class="skill-tile"><b>BI</b><small>Power BI</small></div><div class="skill-tile"><b>LS</b><small>Looker</small></div><div class="skill-tile"><b>XL</b><small>Excel</small></div><div class="skill-tile"><b>Pa</b><small>Pandas</small></div><div class="skill-tile"><b>Nu</b><small>NumPy</small></div><div class="skill-tile"><b>Ta</b><small>Tableau</small></div></div></div>
-            <div class="skill-group reveal"><h3>PLATFORM & WORKFLOW</h3><div class="skill-tiles"><div class="skill-tile"><b>GH</b><small>GitHub</small></div><div class="skill-tile"><b>Git</b><small>Git</small></div><div class="skill-tile"><b>PM</b><small>Postman</small></div><div class="skill-tile"><b>Su</b><small>Supabase</small></div><div class="skill-tile"><b>Fi</b><small>Figma</small></div><div class="skill-tile"><b>AI</b><small>RAG / MCP</small></div></div></div>
+            <div class="skill-group reveal"><h3>FRONTEND</h3><div class="skill-tiles">
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" loading="lazy"><small>React</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript logo" loading="lazy"><small>TypeScript</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" loading="lazy"><small>JavaScript</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS logo" loading="lazy"><small>Tailwind</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite logo" loading="lazy"><small>Vite</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5 logo" loading="lazy"><small>HTML / CSS</small></div>
+            </div></div>
+            <div class="skill-group reveal"><h3>BACKEND & DATA</h3><div class="skill-tiles">
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js logo" loading="lazy"><small>Node.js</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/express/555555" alt="Express logo" loading="lazy"><small>Express</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python logo" loading="lazy"><small>Python</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL logo" loading="lazy"><small>SQL</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL logo" loading="lazy"><small>Postgres</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB logo" loading="lazy"><small>MongoDB</small></div>
+            </div></div>
+            <div class="skill-group reveal"><h3>ANALYTICS</h3><div class="skill-tiles">
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI logo" loading="lazy"><small>Power BI</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker Studio logo" loading="lazy"><small>Looker</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel logo" loading="lazy"><small>Excel</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas logo" loading="lazy"><small>Pandas</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy logo" loading="lazy"><small>NumPy</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau logo" loading="lazy"><small>Tableau</small></div>
+            </div></div>
+            <div class="skill-group reveal"><h3>PLATFORM & WORKFLOW</h3><div class="skill-tiles">
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub logo" loading="lazy"><small>GitHub</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git logo" loading="lazy"><small>Git</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman logo" loading="lazy"><small>Postman</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase logo" loading="lazy"><small>Supabase</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma logo" loading="lazy"><small>Figma</small></div>
+              <div class="skill-tile"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI logo" loading="lazy"><small>RAG / MCP</small></div>
+            </div></div>
           </div>
           <div class="skills-note mono">ENGINEERING · DATA · PRODUCT · CONTINUOUS LEARNING</div>
         </div>
