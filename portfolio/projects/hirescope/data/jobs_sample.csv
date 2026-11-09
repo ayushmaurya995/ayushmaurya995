@@ -1,0 +1,25 @@
+role,location,skill,annual_salary_inr,openings
+Data Analyst,Bengaluru,Python,650000,1
+Data Analyst,Mumbai,SQL,720000,1
+Business Analyst,Pune,Excel,680000,1
+Frontend Developer,Bengaluru,React,800000,1
+Backend Developer,Hyderabad,Node.js,850000,1
+Data Scientist,Bengaluru,Python,950000,1
+Data Analyst,Delhi NCR,Power BI,620000,1
+Business Analyst,Mumbai,SQL,750000,1
+Frontend Developer,Pune,JavaScript,700000,1
+Data Scientist,Hyderabad,Machine Learning,1050000,1
+Backend Developer,Bengaluru,SQL,900000,1
+Data Analyst,Pune,Excel,600000,1
+Business Analyst,Delhi NCR,Power BI,710000,1
+Frontend Developer,Mumbai,React,780000,1
+Data Scientist,Pune,Python,880000,1
+Backend Developer,Delhi NCR,Node.js,820000,1
+Data Analyst,Hyderabad,Python,690000,1
+Business Analyst,Bengaluru,Excel,730000,1
+Frontend Developer,Delhi NCR,JavaScript,740000,1
+Data Scientist,Mumbai,Machine Learning,1100000,1
+Backend Developer,Pune,SQL,860000,1
+Data Analyst,Mumbai,Power BI,760000,1
+Business Analyst,Hyderabad,SQL,700000,1
+Frontend Developer,Hyderabad,React,810000,1

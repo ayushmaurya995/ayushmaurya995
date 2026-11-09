@@ -213,6 +213,40 @@ An analytical project focused on tracking business health and turning performanc
 </tr>
 </table>
 
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./portfolio/projects/salespulse/assets/dashboard-preview.svg" width="100%" alt="SalesPulse dashboard preview" />
+
+### SalesPulse
+**Sales Performance Intelligence Dashboard**
+
+A responsive sales analytics dashboard exploring revenue, profit, product and regional performance with interactive filters.
+
+<sub>PYTHON · PANDAS CONCEPTS · HTML · CSS · JAVASCRIPT · CHART.JS</sub>
+
+[Open dashboard](./portfolio/projects/salespulse/index.html) · [Source & documentation](./portfolio/projects/salespulse/README.md)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./portfolio/projects/hirescope/assets/dashboard-preview.svg" width="100%" alt="HireScope dashboard preview" />
+
+### HireScope
+**Job Market Intelligence Dashboard**
+
+A job-market exploration dashboard comparing sample role demand, annual salary, locations and skill mentions.
+
+<sub>DATA ANALYTICS · HTML · CSS · JAVASCRIPT · CHART.JS · CSV</sub>
+
+[Open dashboard](./portfolio/projects/hirescope/index.html) · [Source & documentation](./portfolio/projects/hirescope/README.md)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 <a href="https://github.com/ayushmaurya995?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>

@@ -1,0 +1,25 @@
+month,region,category,product,revenue,profit,units
+2026-01,North,Accessories,Wireless Mouse,180,54,240
+2026-01,South,Electronics,Keyboard,320,96,160
+2026-02,East,Electronics,Monitor,760,228,95
+2026-02,West,Accessories,Headphones,420,126,140
+2026-03,North,Electronics,Webcam,250,75,180
+2026-03,South,Accessories,USB Hub,140,42,210
+2026-04,East,Electronics,Monitor,820,246,110
+2026-04,West,Accessories,Wireless Mouse,210,63,260
+2026-05,North,Electronics,Keyboard,390,117,175
+2026-05,South,Accessories,Headphones,460,138,150
+2026-06,East,Electronics,Webcam,280,84,190
+2026-06,West,Accessories,USB Hub,165,49.5,230
+2026-07,North,Electronics,Monitor,910,273,125
+2026-07,South,Accessories,Wireless Mouse,225,67.5,280
+2026-08,East,Electronics,Keyboard,410,123,200
+2026-08,West,Accessories,Headphones,495,148.5,165
+2026-09,North,Electronics,Webcam,305,91.5,205
+2026-09,South,Accessories,USB Hub,175,52.5,245
+2026-10,East,Electronics,Monitor,980,294,135
+2026-10,West,Accessories,Wireless Mouse,240,72,295
+2026-11,North,Electronics,Keyboard,440,132,215
+2026-11,South,Accessories,Headphones,530,159,180
+2026-12,East,Electronics,Monitor,1050,315,150
+2026-12,West,Accessories,USB Hub,190,57,255
